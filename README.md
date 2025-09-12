@@ -5,7 +5,7 @@
 - 👩‍💻 I'm currently a CSE undergraduate at University of Moratuwa.
 - 🌱 I’m currently learning Python, C++ and core Computer Science concepts.
 - 💬 Ask me about anything.
-</br>
+
 **🔗Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/athishaya-jeevakaran-b2aa10305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athishaya jeevakaran" height="30" width="40" /></a>
