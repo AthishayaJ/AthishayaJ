@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python, C++ and core Computer Science concepts.
 - 💬 Ask me about anything.
 <h3 align="left">🔗Connect with me:<p align="left">
-<a href="www.linkedin.com/in/athishaya-jeevakaran-b2aa10305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athishaya jeevakaran" height="20"  /></a>
+<a href="www.linkedin.com/in/athishaya-jeevakaran-b2aa10305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athishaya jeevakaran" height="25"  /></a>
 </p></h3>
 
 
