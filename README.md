@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Athishaya Jeevakaran!</h1>
+<h1 align="left">Hi 👋, I'm Athishaya Jeevakaran!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athishayaj&label=Profile%20views&color=0e75b6&style=flat" alt="athishayaj" /> </p>
 
 **About Me!**
